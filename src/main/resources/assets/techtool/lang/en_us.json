@@ -1,0 +1,19 @@
+{
+    "itemGroup.tech_tool": "Tool",
+
+    "item.techtool.copper_axe": "Copper axe",
+    "item.techtool.tin_axe": "Tin axe",
+    "item.techtool.bronze_axe": "Bronze axe",
+
+    "item.techtool.copper_hoe": "Copper hoe",
+    "item.techtool.tin_hoe": "Tin hoe",
+    "item.techtool.bronze_hoe": "Bronze hoe",
+
+    "item.techtool.copper_shovel": "Copper shovel",
+    "item.techtool.tin_shovel": "Tin shovel",
+    "item.techtool.bronze_shovel": "Bronze shovel",
+
+    "item.techtool.copper_pickaxe": "Copper pickaxe",
+    "item.techtool.tin_pickaxe": "Tin pickaxe",
+    "item.techtool.bronze_pickaxe": "Bronze pickaxe"
+}

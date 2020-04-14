@@ -1,0 +1,8 @@
+{
+    "itemGroup.tech_sword": "Sword",
+    "itemGroup.tech_misc": "Misc",
+
+    "item.tech.copper_sword": "Copper axe",
+    "item.tech.tin_sword": "Tin axe",
+    "item.tech.bronze_sword": "Bronze axe"
+}

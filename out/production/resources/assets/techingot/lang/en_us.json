@@ -1,0 +1,10 @@
+{
+    "itemGroup.tech_ingot": "Ingot",
+
+    "item.techingot.copper_ingot": "Copper ingot",
+    "item.techingot.tin_ingot": "Tin ingot",
+    "item.techingot.bronze_ingot": "Bronze ingot",
+    "item.techingot.aluminium_ingot": "Aluminium ingot",
+    "item.techingot.tungsten_ingot": "Tungsten ingot",
+    "item.techingot.uranium_ingot": "Uranium ingot"
+}

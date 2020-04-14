@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "techingot:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "techtool:tin_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "itemGroup.tech_ore": "Ore",
+
+  "block.techore.copper_ore": "Copper ore",
+  "block.techore.tin_ore": "Tin ore",
+  "block.techore.uranium_ore": "Uranium ore",
+  "block.techore.tungsten_ore": "Tungsten ore",
+  "block.techore.bauxite_ore": "Bauxite ore"
+}

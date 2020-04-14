@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "techtool:item/tin/tin_shovel"
+    }
+}
