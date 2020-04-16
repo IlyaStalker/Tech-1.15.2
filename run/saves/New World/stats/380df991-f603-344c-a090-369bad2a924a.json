@@ -1,1 +1,23 @@
-{"stats":{"minecraft:used":{"minecraft:shulker_box":1,"minecraft:torch":27},"minecraft:picked_up":{"minecraft:stick":2},"minecraft:custom":{"minecraft:jump":17,"minecraft:time_since_rest":23202,"minecraft:open_shulker_box":1,"minecraft:crouch_one_cm":63,"minecraft:play_one_minute":23202,"minecraft:leave_game":26,"minecraft:sprint_one_cm":4658,"minecraft:time_since_death":23202,"minecraft:walk_one_cm":6527,"minecraft:sneak_time":211,"minecraft:fly_one_cm":9580}},"DataVersion":2230}
+{
+  "stats": {
+    "minecraft:used": {
+      "techore:tin_ore": 1,
+      "techore:copper_ore": 10,
+      "techore:bauxite_ore": 1,
+      "techore:tungsten_ore": 1,
+      "techore:uranium_ore": 1
+    },
+    "minecraft:custom": {
+      "minecraft:jump": 4,
+      "minecraft:time_since_rest": 2008,
+      "minecraft:crouch_one_cm": 30,
+      "minecraft:play_one_minute": 2008,
+      "minecraft:leave_game": 1,
+      "minecraft:time_since_death": 2008,
+      "minecraft:walk_one_cm": 1452,
+      "minecraft:sneak_time": 19,
+      "minecraft:fly_one_cm": 1164
+    }
+  },
+  "DataVersion": 2230
+}

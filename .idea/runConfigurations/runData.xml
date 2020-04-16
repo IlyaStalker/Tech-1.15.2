@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="runData" type="Application" factoryName="Application" singleton="false">
     <envs>
-      <env name="MOD_CLASSES" value="tech%%$PROJECT_DIR$/../Tech 1.15.2\out\production\resources;tech%%$PROJECT_DIR$/../Tech 1.15.2\out\production\classes;techore%%$PROJECT_DIR$/../Tech 1.15.2\out\production\resources;techore%%$PROJECT_DIR$/../Tech 1.15.2\out\production\classes" />
+      <env name="MOD_CLASSES" value="tech%%$PROJECT_DIR$/../Tech 1.15.2\out\production\resources;tech%%$PROJECT_DIR$/../Tech 1.15.2\out\production\classes;techingot%%$PROJECT_DIR$/../Tech 1.15.2\out\production\resources;techingot%%$PROJECT_DIR$/../Tech 1.15.2\out\production\classes;techore%%$PROJECT_DIR$/../Tech 1.15.2\out\production\resources;techore%%$PROJECT_DIR$/../Tech 1.15.2\out\production\classes;techtool%%$PROJECT_DIR$/../Tech 1.15.2\out\production\resources;techtool%%$PROJECT_DIR$/../Tech 1.15.2\out\production\classes" />
       <env name="MCP_MAPPINGS" value="stable_60-1.15" />
       <env name="MCP_VERSION" value="20200122.131323" />
       <env name="FORGE_VERSION" value="31.1.9" />
@@ -11,7 +11,7 @@
     </envs>
     <option name="MAIN_CLASS_NAME" value="net.minecraftforge.userdev.LaunchTesting" />
     <module name="Tech_1.15.2.main" />
-    <option name="PROGRAM_PARAMETERS" value="--mod tech techore --all --output &quot;D:\minecraft_modding\Tech 1.15.2\src\generated\resources&quot;" />
+    <option name="PROGRAM_PARAMETERS" value="--mod techcore techore techingot techtool --all --output &quot;D:\minecraft_modding\Tech 1.15.2\src\generated\resources&quot;" />
     <option name="VM_PARAMETERS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP" />
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
     <method v="2">
