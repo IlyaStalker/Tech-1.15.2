@@ -12,7 +12,7 @@
   </component>
   <component name="McpModuleSettings">
     <option name="mappingFile" value="D:\minecraft_modding\Tech 1.15.2\build\createMcpToSrg\output.tsrg" />
-    <option name="mcpVersion" value="stable_60-1.15" />
+    <option name="mcpVersion" value="stable_20200217-1.15.1" />
     <option name="minecraftVersion" value="1.15.2" />
     <option name="srgType" value="TSRG" />
   </component>
